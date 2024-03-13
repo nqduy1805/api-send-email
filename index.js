@@ -2,4 +2,4 @@ function display(name){
     console.log(name)
     return name;
 }
-display('api-send-email2');
+display('api-send-email2git');
